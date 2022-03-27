@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manju_43
+- 👋 Hi, I’m manju
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development and also looking for front end projects to work on.
 - 💞️ I’m looking to collaborate on any programming
 - 📫 How to reach me @ manjuenrqiue2347@gmail.com
 
